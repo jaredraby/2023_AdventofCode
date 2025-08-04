@@ -1,0 +1,17 @@
+This is a test document to demonstrate the regex search.
+
+On page 1, we learn that Dave is cool.
+Many people agree with this statement.
+
+Page 2 continues with more content.
+Did you know that Dave is cool? It's true!
+
+On page 3, someone shouted "DAVE IS COOL!"
+But that's uppercase, so it depends on your search settings.
+
+Page 4 has a variation: dave is cool (lowercase).
+
+Page 5 confirms again: Dave is cool and everyone knows it.
+In fact, Dave is cool is mentioned twice on this page!
+
+The end.
